@@ -6,6 +6,15 @@ labels: feature, with review app
 
 # Demande de fonctionnalité
 
+## Le sujet est-il prêt à être développé ?
+> Cocher ici les différentes étapes nécessaires avant que le sujet puisse être développé.
+
+- [ ] Les règles fonctionnelles ont été écrites
+- [ ] Les tests d'acceptance ont été écrits
+- [ ] Le besoin et l'objectif sont compris par l'équipe
+- [ ] Les spécifications design sont terminées, décrites et mises en lien sur ce ticket (supprimer si cela ne s'applique pas)
+- [ ] Le ticket Cycle est en lien sur le ticket, il est décrit pour pouvoir communiquer dessus lors du déploiement de la fonctionnalité
+
 <!-- obligatoire -->
 ## Besoin
 > Décrit le besoin utilisateur.
